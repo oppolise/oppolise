@@ -66,13 +66,3 @@
 - Contributed to backend development with **Go and Fiber**, including REST API development, MongoDB integration, API documentation, and Agile collaboration through GitLab Merge Requests.
 - Designed and implemented distributed machine-learning experiments using **Python, Ray Tune, Ray Actors, shared memory, SLURM, and the LANTA Supercomputer**, reducing average RAM usage by approximately **53%** in controlled comparisons.
 
-## GitHub overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oppolise&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=oppolise&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" height="165">
-</p>
-
-<p align="center">
-  <i>Open to Backend Engineer and Full-stack Developer opportunities.</i>
-</p>
